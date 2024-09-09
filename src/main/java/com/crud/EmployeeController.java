@@ -53,6 +53,9 @@ public String deleteoneObject(@PathVariable int variable)
 	return es.deleteoneObjectService(variable); }
 
 
+
+
+
 }
 
 
